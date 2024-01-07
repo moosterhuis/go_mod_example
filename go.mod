@@ -1,4 +1,4 @@
-module mymodule
+module go_mod_example
 
 go 1.21.0
 

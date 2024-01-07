@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"mymodule/p1"
-	"mymodule/p2"
+	"go_mod_example/p1"
+	"go_mod_example/p2"
 
 	"github.com/GoesToEleven/puppy"
 )
